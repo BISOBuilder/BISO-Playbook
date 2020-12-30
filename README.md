@@ -63,5 +63,5 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 - What industry and information security trends are emerging that require stakeholder awareness?
 
 8. Security Awareness
-What are the phishing click rates and reporting rates for each business unit and for the high risk user population?
-What opportunities exist to raise employee awareness of social engineering and other security risks (e.g., proper handling of sensitive data, password best practices, etc)?
+- What are the phishing click rates and reporting rates for each business unit and for the high risk user population?
+- What opportunities exist to raise employee awareness of social engineering and other security risks (e.g., proper handling of sensitive data, password best practices, etc)?
