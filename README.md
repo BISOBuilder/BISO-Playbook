@@ -25,7 +25,7 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 - Oversee and advise on remediation of cyber security gaps to secure against potential threats and known vulnerabilities
 - Regularly report information security risk to key stakeholders
 
-## What are the Key Functions and Some of the Questions a BISO should have answers to?
+## What are the Key Functions and Key Questions a BISO should have answers to?
 
 1. Vulnerability Risk Management and Remediation Oversight
 - What is the vulnerability exposure by business unit and severity?
