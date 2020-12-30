@@ -14,13 +14,16 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 ## What is the Delivery Framework?
 
 1. Business Enablement
+
 Provide direction to partners on securing the enterprise technology portfolio (strategic and legacy)
 Influence the security culture within technology and business units by educating partners on cyber risks and effective mitigation strategies
 
 2. Secure from the Start
+
 Bring to bear the full suite of information security products and controls to technology that’s being bought, built, and run in the enterprise
 
 3. Risk and Control Assessments and Reporting
+
 Assess inherent risk and the design and effectiveness of information security controls
 Oversee and advise on remediation of cyber security gaps to secure against potential threats and known vulnerabilities
 Regularly report information security risk to key stakeholders
