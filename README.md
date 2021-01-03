@@ -70,6 +70,7 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 ## Resources
 - [Autodesk Continuous Threat Modeling](https://github.com/Autodesk/continuous-threat-modeling)
 - [AWS Security Maturity Roadmap](https://summitroute.com/blog/2020/05/21/aws_security_maturity_roadmap_2020/)
+- [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security)
 - [@CxOSidekick Template for Security Capability Delivery](https://pbs.twimg.com/media/EL7ftadWkAIG95K?format=jpg&name=large)
 - [CIO Risk Framework](https://pbs.twimg.com/media/DXY4QI2W4AYPtAF?format=jpg&name=4096x4096)
 - [OWASP Software Security](https://owasp.org/projects/)
