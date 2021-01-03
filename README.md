@@ -68,9 +68,9 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 - What opportunities exist to raise employee awareness of social engineering and other security risks (e.g., proper handling of sensitive data, password best practices, etc)?
 
 #Resources
-[Autodesk Continuous Threat Modeling](https://github.com/Autodesk/continuous-threat-modeling)
-[AWS Security Maturity Roadmap](https://summitroute.com/blog/2020/05/21/aws_security_maturity_roadmap_2020/)
-[@CxOSidekick Template for Security Capability Delivery](https://pbs.twimg.com/media/EL7ftadWkAIG95K?format=jpg&name=large)
-[CIO Risk Framework](https://pbs.twimg.com/media/DXY4QI2W4AYPtAF?format=jpg&name=4096x4096)
-[OWASP Software Security](https://owasp.org/projects/)
+- [Autodesk Continuous Threat Modeling](https://github.com/Autodesk/continuous-threat-modeling)
+- [AWS Security Maturity Roadmap](https://summitroute.com/blog/2020/05/21/aws_security_maturity_roadmap_2020/)
+- [@CxOSidekick Template for Security Capability Delivery](https://pbs.twimg.com/media/EL7ftadWkAIG95K?format=jpg&name=large)
+- [CIO Risk Framework](https://pbs.twimg.com/media/DXY4QI2W4AYPtAF?format=jpg&name=4096x4096)
+- [OWASP Software Security](https://owasp.org/projects/)
 
