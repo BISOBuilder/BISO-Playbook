@@ -31,6 +31,7 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 - What is the vulnerability exposure by business unit and severity?
 - How is remediation tracking against service level agreements? 
 - Do any mitigating controls need to be put in place to reduce a specific vulnerability risk in the short term?
+- Is there a design pattern we can follow to address a particular vulnerability?
 
 2. Risk and Control Assessments 
 - What is the likelihood and consequence of a threat?
@@ -65,3 +66,11 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 8. Security Awareness
 - What are the phishing click rates and reporting rates for each business unit and for the high risk user population?
 - What opportunities exist to raise employee awareness of social engineering and other security risks (e.g., proper handling of sensitive data, password best practices, etc)?
+
+#Resources
+[Autodesk Continuous Threat Modeling](https://github.com/Autodesk/continuous-threat-modeling)
+[AWS Security Maturity Roadmap](https://summitroute.com/blog/2020/05/21/aws_security_maturity_roadmap_2020/)
+[@CxOSidekick Template for Security Capability Delivery](https://pbs.twimg.com/media/EL7ftadWkAIG95K?format=jpg&name=large)
+[CIO Risk Framework](https://pbs.twimg.com/media/DXY4QI2W4AYPtAF?format=jpg&name=4096x4096)
+[OWASP Software Security](https://owasp.org/projects/)
+
