@@ -55,8 +55,12 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 - Are vendors meeting these minimum requirements?  If not, are plans in place to remediate or has the business risk accepted?
 - Do contracts have the appropriate security terms in place?  If not, has the business risk accepted?
 
-6. Security Architecture support / threat modeling
-- What characteristics of a system’s design should be modified in order to minimize the security risk for the owners, users, and operators of the system?
+6. Security Architecture support / threat modeling (h/t Adam Shostack)
+- What are you doing?
+- What can go wrong?
+- What did you do about it?
+- Did you do a good job?
+- In more words, what characteristics of a system’s design should be modified in order to minimize the security risk for the owners, users, and operators of the system?
 
 7. Key Risk Reporting
 - What are the key security risks to the business?
