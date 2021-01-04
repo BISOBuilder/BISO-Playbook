@@ -60,7 +60,7 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 - What can go wrong?
 - What did you do about it?
 - Did you do a good job?
-- In more words, what characteristics of a system’s design should be modified in order to minimize the security risk for the owners, users, and operators of the system?
+- In more words... what characteristics of a system’s design should be modified in order to minimize the security risk for the owners, users, and operators of the system?
 
 7. Key Risk Reporting
 - What are the key security risks to the business?
