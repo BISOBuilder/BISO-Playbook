@@ -27,47 +27,59 @@ Alyssa Miller provides a great overview of the role in her [blog](https://alyssa
 
 ## What are the Key Functions and Key Questions a BISO should have answers to?
 
-1. Vulnerability Risk Management and Remediation Oversight
+1. Asset Management
+- What are the most critical assets to the business? 
+- What are the factors that make them critical?
+- Who owns them?
+
+2. Secure Software Development
+- To what extent is security integrated into the development processes?
+- How can we reduce friction for developers without compromising security?
+- How can vulnerabilities identified in production be addressed earlier in the development lifecycle? 
+
+3. Vulnerability Risk Management and Remediation Oversight
 - What is the vulnerability exposure by business unit and severity?
 - How is remediation tracking against service level agreements? 
 - Do any mitigating controls need to be put in place to reduce a specific vulnerability risk in the short term?
 - Is there a design pattern we can follow to address a particular vulnerability?
 
-2. Risk and Control Assessments 
+4. Risk and Control Assessments 
 - What is the likelihood and consequence of a threat?
 - Are existing controls operating effectively to mitigate the risk?
 - Are controls designed to be scalable and sustainable?
 - What control enhancements should be considered to further reduce risk to the business?
 
-3. Information Security Policies and Standards
+5. Information Security Policies and Standards
 - What impact will proposed changes to security policies have on the business and technology units?
 - What is the strategy to bring impacted stakeholders into compliance?
 - Where do key stakeholders need additional security guidance?
 - What user exceptions to security requirements are needed?  Are these properly documented, reviewed, approved, and recertified?
 
-4. Incident management
+6. Incident management
 - What are the trigger points for escalating an incident to business and technology units?
 - What security consulting support is needed to mitigate the effects of an incident?
 - What steps can be taken to prevent a similar incident from taking place again?
 
-5. Vendor security risk management 
-- What are the minimum security requirements for vendors?
+7. Vendor security risk management 
+- What are the riskiest vendor relationships the business has?
+- What data is the business sharing with a vendor?
+- What are the security requirements for vendors including those that provide SaaS, IaaS, and PaaS platforms?
 - Are vendors meeting these minimum requirements?  If not, are plans in place to remediate or has the business risk accepted?
 - Do contracts have the appropriate security terms in place?  If not, has the business risk accepted?
 
-6. Security Architecture support / threat modeling (h/t Adam Shostack)
+8. Security Architecture support / threat modeling (h/t Adam Shostack)
 - What are you doing?
 - What can go wrong?
 - What did you do about it?
 - Did you do a good job?
 - In more words... what characteristics of a system’s design should be modified in order to minimize the security risk for the owners, users, and operators of the system?
 
-7. Key Risk Reporting
+8. Key Risk Reporting
 - What are the key security risks to the business?
 - How should remediation be prioritized?
 - What industry and information security trends are emerging that require stakeholder awareness?
 
-8. Security Awareness
+9. Security Awareness
 - What are the phishing click rates and reporting rates for each business unit and for the high risk user population?
 - What opportunities exist to raise employee awareness of social engineering and other security risks (e.g., proper handling of sensitive data, password best practices, etc)?
 
